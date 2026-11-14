@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olivier Olszewski
 
-<!--
-**Kujelo21/Kujelo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity student · SOC & Blue Team · Secure web development**
 
-Here are some ideas to get you started:
+2nd-year Cybersecurity student at Andrzej Frycz Modrzewski Krakow University.
+I'm learning threat detection and security monitoring (SOC), and I build secure websites for small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently
+
+- Building a home security lab (Linux, Docker, SIEM)
+- Working through the TryHackMe **SOC Level 1** path
+
+### 🧰 Learning / using
+
+`Linux` `Git` `Python` `HTML/CSS` `TryHackMe`
+
+<sub>All security testing is done in my own lab or with written permission from the system owner.</sub>
