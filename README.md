@@ -7,11 +7,16 @@ I'm learning threat detection and security monitoring (SOC), and I build secure 
 
 ### 🔭 Currently
 
-- Building a home security lab (Linux, Docker, SIEM)
+- Building a [home security lab](https://github.com/Kujelo21/security-homelab) (Linux, Docker, SIEM)
 - Working through the TryHackMe **SOC Level 1** path
 
 ### 🧰 Learning / using
 
 `Linux` `Git` `Python` `HTML/CSS` `TryHackMe`
+
+### 🎓 Training
+
+- TryHackMe: [Kujelo](https://tryhackme.com/p/Kujelo) · Top 20% · ✅ Pre Security path
+- In progress: SOC Level 1
 
 <sub>All security testing is done in my own lab or with written permission from the system owner.</sub>
