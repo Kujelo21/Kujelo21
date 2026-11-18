@@ -10,9 +10,16 @@ I'm learning threat detection and security monitoring (SOC), and I build secure 
 - Building a [home security lab](https://github.com/Kujelo21/security-homelab) (Linux, Docker, SIEM)
 - Working through the TryHackMe **SOC Level 1** path
 
+### 🛡️ Projects
+
+| Project | What it shows |
+|---|---|
+| [laptop-hardening](https://github.com/Kujelo21/laptop-hardening) | Endpoint audit of my own Windows 11 laptop: ranked findings, fixes, accepted risk, verification + a read-only PowerShell audit script |
+| [security-homelab](https://github.com/Kujelo21/security-homelab) | Isolated Docker lab with OWASP Juice Shop and writeups (Broken Access Control, DOM XSS) |
+
 ### 🧰 Learning / using
 
-`Linux` `Git` `Python` `HTML/CSS` `TryHackMe`
+`Linux` `Git` `Python` `PowerShell` `Windows security` `Docker` `HTML/CSS` `TryHackMe`
 
 ### 🎓 Training
 
